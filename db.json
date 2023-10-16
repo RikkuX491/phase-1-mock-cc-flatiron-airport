@@ -1,0 +1,54 @@
+{
+    "airlines": [
+      {
+        "id": 1,
+        "name": "jetBlue",
+        "description": "Flight # B6010. Destination: Orlando, Florida",
+        "image_url": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2021-08/jetblue_jetblue-airways_promo.jpg?itok=Wlkg6lF1",
+        "comments": [
+          "Yay Yay Yay!",
+          "Am I really going to Disney World, or is this just a dream?",
+          "I've always hated flights with no destination, so this is absolutely phenomenal.",
+          "Best flight ever!! I love jetBlue!!!"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Delta Air Lines",
+        "description": "Flight # DL121. Destination: Anaheim, California",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0vqle3iDBzPWtkF-jLPmgY9610eVlg77LSA&usqp=CAU",
+        "comments": [
+          "My child's fav airplane!!!",
+          "Like a breath of fresh air"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Hawaiian Airlines",
+        "description": "Flight # HA242. Destination: Honolulu, Hawaii",
+        "image_url": "https://patch.com/img/cdn20/users/26092853/20221216/030155/hawaiian-airlines-booking___16030152698.jpg",
+        "comments": [
+            "Aloha!",
+            "I love Hawaii!"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Alaska Airlines",
+        "description": "Flight # AS484. Destination: Anchorage, Alaska",
+        "image_url": "https://www.gohawaii.com/sites/default/files/mmg_lfef_images/alaska-airlines-1615-269b612ebe8a7ac763a53904c09ad422.jpg",
+        "comments": [
+            "Brrr it's too cold here!"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "American Airlines",
+        "description": "Flight # AA8168. Destination: St. George's, Bermuda",
+        "image_url": "https://s.abcnews.com/images/US/american-airline-gty-jt-191223_hpMain_16x9_1600.jpg",
+        "comments": [
+          "Got lost at the Bermuda Triangle and... wait, how was I even able to write this comment?"
+        ]
+      }
+    ]
+  }
